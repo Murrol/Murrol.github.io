@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Event‐based Human Pose Tracking by Spiking Spatiotemporal Transformer"
+title:  "MoMask: Generative Masked Modeling of 3D Human Motions"
 date:   2023-09-20 22:21:59 +00:00
 image: /images/momask23.pdf
 categories: research
