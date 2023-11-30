@@ -2,7 +2,7 @@
 layout: post
 title:  "Generative Human Motion Stylization in Latent Space"
 date:   2021-04-24 22:21:59 +00:00
-image: images/cmpb2021.png
+image: images/cmpb2021.jpg
 categories: research
 author: "Yuxuan Mu"
 authors: "Jia Guo, <strong>Yuxuan Mu</strong>, Hui‐qi Li, Junxian Chen, Wei Wang, Huanxin Yan, Hailin Xu"
