@@ -5,7 +5,7 @@ date:   2023-07-20 22:21:59 +00:00
 image: /images/event23.pdf
 categories: research
 author: "Yuxuan Mu" 
-authors: "Shihao Zou, <strong>Yuxuan Mu*</strong>, Xinxin Zuo, Sen Wang, Li Cheng"
+authors: "Shihao Zou, <strong>Yuxuan Mu</strong>, Xinxin Zuo, Sen Wang, Li Cheng"
 venue: "Arxiv Preprint"
 # venue: "in: Submitted to CVPR"
 arxiv: "https://arxiv.org/abs/2303.09681"

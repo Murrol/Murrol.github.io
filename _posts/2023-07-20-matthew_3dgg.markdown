@@ -5,7 +5,7 @@ date:   2023-11-20 22:21:59 +00:00
 image: /images/3dgg23.pdf
 categories: research
 author: "Yuxuan Mu"
-authors: "<strong>Yuxuan Mu*</strong>, Xinxin Zuo, Chuan guo, Yilin Wang, Juwei Lu, Xiaofei Wu, Songcen Xu, Peng Dai, Youliang Yan, Li cheng"
+authors: "<strong>Yuxuan Mu</strong>, Xinxin Zuo, Chuan guo, Yilin Wang, Juwei Lu, Xiaofei Wu, Songcen Xu, Peng Dai, Youliang Yan, Li cheng"
 venue: "Arxiv Preprint"
 # venue: "in: Submitted to CVPR"
 # arxiv: "https://arxiv.org/abs/2303.09681"
