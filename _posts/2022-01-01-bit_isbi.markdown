@@ -2,7 +2,7 @@
 layout: post
 title:  "MSRT: Multi-scale Spatial Regularization Transformer for Multi-label Classification in Calcaneus Radiograph"
 date:   2022-04-26 22:21:59 +00:00
-image: /images/isbi2022.png
+image: images/isbi2022.png
 categories: research
 author: "Yuxuan Mu"
 authors: "<strong>Yuxuan Mu</strong>,He Zhao, Jia Guo, Huiqi Li"
