@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3DG$^2$: 3D‐Gaussian Diffusion for Single‐View 3D Reconstruction"
+title:  "3DG<sup>2</sup>: 3D‐Gaussian Diffusion for Single‐View 3D Reconstruction"
 date:   2023-11-20 22:21:59 +00:00
 image: /images/3dgg23.pdf
 categories: research
