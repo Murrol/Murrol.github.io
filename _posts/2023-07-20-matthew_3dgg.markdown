@@ -11,4 +11,4 @@ venue: "Arxiv Preprint"
 # arxiv: "https://arxiv.org/abs/2303.09681"
 # code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
 ---
-Diffusion model upon the emerging 3D Gausssian representation to tackle the challenging single‐view real‐world object reconstruction, with efficient and faithful rendering, and generative modeling.
+Diffusion model upon the emerging 3D Gausssian representation to tackle the single‐view real‐world object reconstruction, with efficient and faithful rendering, and generative modeling.
