@@ -9,7 +9,7 @@ authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Muhammad Gohar Javed*, Sen Wa
 venue: "Arxiv Preprint"
 website: "https://ericguo5513.github.io/momask/"
 # venue: "in: Submitted to CVPR"
-# arxiv: "https://arxiv.org/abs/2303.09681"
-# code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
+arxiv: "/pdfs/momask.pdf"
+code: "https://github.com/EricGuo5513/momask-codes"
 ---
 We introduce MoMask, a novel masked modeling frame work for text‐driven 3D human motion generation wit hahierarchical quantization scheme.
