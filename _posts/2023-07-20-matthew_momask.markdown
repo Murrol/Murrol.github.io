@@ -12,4 +12,4 @@ website: "https://ericguo5513.github.io/momask/"
 arxiv: "/pdfs/momask.pdf"
 code: "https://github.com/EricGuo5513/momask-codes"
 ---
-We introduce MoMask, a novel masked modeling frame work for text‐driven 3D human motion generation wit hahierarchical quantization scheme.
+We introduce MoMask, a novel masked modeling frame work for text‐driven 3D human motion generation with a hierarchical quantization scheme.
