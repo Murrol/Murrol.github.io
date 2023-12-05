@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generative Human Motion Stylization in Latent Space"
+title:  "Automatic Analysis System of Calcaneus Radiograph: Rotation-Invariant Landmark Detection for Calcaneal Angle Measurement, Fracture Identification and Fracture Region Segmentation"
 date:   2021-04-24 22:21:59 +00:00
 image: /images/cmpb2021.jpg
 categories: research
