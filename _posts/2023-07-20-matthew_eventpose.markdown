@@ -2,7 +2,7 @@
 layout: post
 title:  "Event‐based Human Pose Tracking by Spiking Spatiotemporal Transformer"
 date:   2023-07-20 22:21:59 +00:00
-image: /images/event23.pdf
+image: /images/event23.jpg
 categories: research
 author: "Yuxuan Mu" 
 authors: "Shihao Zou, <strong>Yuxuan Mu</strong>, Xinxin Zuo, Sen Wang, Li Cheng"

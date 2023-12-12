@@ -2,7 +2,7 @@
 layout: post
 title:  "MoMask: Generative Masked Modeling of 3D Human Motions"
 date:   2023-09-20 22:21:59 +00:00
-image: /images/momask23.pdf
+image: /images/momask23.jpg
 categories: research
 author: "Yuxuan Mu"
 authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Muhammad Gohar Javed*, Sen Wang, Li cheng"
