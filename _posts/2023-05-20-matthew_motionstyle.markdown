@@ -7,7 +7,7 @@ categories: research
 author: "Yuxuan Mu"
 authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Xinxin Zuo, Peng Dai, Youliang Yan, Juwei Lu, Li Cheng"
 # venue: "Arxiv Preprint"
-venue:"in: Accepted for ICLR2024"
+venue: "Accepted for ICLR2024"
 website: "https://openreview.net/forum?id=daEqXJ0yZo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)"
 arxiv: "https://openreview.net/forum?id=daEqXJ0yZo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)"
 ---
