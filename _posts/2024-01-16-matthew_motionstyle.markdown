@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generative Human Motion Stylization in Latent Space"
-date:   2024-01-16 22:21:59 +00:00
+date:   2023-01-16 22:21:59 +00:00
 image: /images/iclr23.jpg
 categories: research
 author: "Yuxuan Mu"
