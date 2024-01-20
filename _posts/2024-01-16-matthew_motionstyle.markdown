@@ -8,7 +8,7 @@ author: "Yuxuan Mu"
 authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Xinxin Zuo, Peng Dai, Youliang Yan, Juwei Lu, Li Cheng"
 # venue: "Arxiv Preprint"
 venue: "Accepted for ICLR"
-website: "https://openreview.net/forum?id=daEqXJ0yZo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)"
-arxiv: "https://openreview.net/forum?id=daEqXJ0yZo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)"
+website: "https://yxmu.foo/GenMoStyle/"
+arxiv: "https://openreview.net/pdf?id=daEqXJ0yZo"
 ---
 We propose a flexible motion style extraction and injection method from a generative perspective to solve the motion stylization task with probabilistic style space.

@@ -9,7 +9,7 @@ authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Muhammad Gohar Javed*, Sen Wa
 venue: "Arxiv Preprint"
 website: "https://ericguo5513.github.io/momask/"
 # venue: "in: Submitted to CVPR"
-arxiv: "/pdfs/momask.pdf"
+arxiv: "https://arxiv.org/abs/2312.00063"
 code: "https://github.com/EricGuo5513/momask-codes"
 demo: "https://huggingface.co/spaces/MeYourHint/MoMask"
 ---
