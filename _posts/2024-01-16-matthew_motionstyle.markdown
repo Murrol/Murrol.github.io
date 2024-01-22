@@ -10,5 +10,6 @@ authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Xinxin Zuo, Peng Dai, Youlian
 venue: "Accepted for ICLR"
 website: "https://yxmu.foo/GenMoStyle/"
 arxiv: "https://openreview.net/pdf?id=daEqXJ0yZo"
+code: "https://github.com/Murrol/GenMoStyle-code"
 ---
 We propose a flexible motion style extraction and injection method from a generative perspective to solve the motion stylization task with probabilistic style space.
