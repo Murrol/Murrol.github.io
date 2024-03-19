@@ -5,7 +5,7 @@ date:   2024-01-15 22:21:59 +00:00
 image: /images/iclr23.jpg
 categories: research
 author: "Yuxuan Mu"
-authors: "Chuan Guo*, <strong>Yuxuan Mu*</strong>, Xinxin Zuo, Peng Dai, Youliang Yan, Juwei Lu, Li Cheng"
+authors: "<a href=https://ericguo5513.github.io>Chuan Guo</a>*, <strong>Yuxuan Mu*</strong>, <a href=https://sites.google.com/site/xinxinzuohome/home>Xinxin Zuo</a>, Peng Dai, Youliang Yan, Juwei Lu, <a href=https://www.ece.ualberta.ca/~lcheng5/>Li Cheng</a>"
 # venue: "Arxiv Preprint"
 venue: "Accepted for ICLR"
 website: "https://yxmu.foo/GenMoStyle/"
