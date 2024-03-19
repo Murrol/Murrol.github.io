@@ -5,7 +5,7 @@ date:   2021-04-24 22:21:59 +00:00
 image: /images/cmpb2021.jpg
 categories: research
 author: "Yuxuan Mu"
-authors: "Jia Guo, <strong>Yuxuan Mu</strong>, Hui‐qi Li, Junxian Chen, Wei Wang, Huanxin Yan, Hailin Xu"
+authors: "<a href=https://scholar.google.ca/citations?hl=en&user=nTQvKUAAAAAJ>Jia Guo</a>, <strong>Yuxuan Mu</strong>, <a href=https://scholar.google.com.hk/citations?user=Fdpr6YAAAAAJ&hl=en>Hui‐qi Li</a>, Junxian Chen, Wei Wang, Huanxin Yan, Hailin Xu"
 venue: "Computer Methods and Programs in Biomedicine (IF 6.1)"
 arxiv: https://arxiv.org/abs/1912.04536
 ---

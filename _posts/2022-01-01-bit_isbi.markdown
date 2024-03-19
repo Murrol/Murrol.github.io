@@ -5,7 +5,7 @@ date:   2022-04-26 22:21:59 +00:00
 image: /images/isbi2022.jpg
 categories: research
 author: "Yuxuan Mu"
-authors: "<strong>Yuxuan Mu</strong>, He Zhao, Jia Guo, Huiqi Li"
+authors: "<strong>Yuxuan Mu</strong>, <a href=https://scholar.google.com/citations?user=_2eypvcAAAAJ&hl=en>He Zhao</a>, <a href=https://scholar.google.ca/citations?hl=en&user=nTQvKUAAAAAJ>Jia Guo</a>, <a href=https://scholar.google.com.hk/citations?user=Fdpr6YAAAAAJ&hl=en>Hui‐qi Li</a>"
 venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
 arxiv: https://ieeexplore.ieee.org/document/9761435
 ---
