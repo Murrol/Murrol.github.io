@@ -6,7 +6,7 @@ image: /images/momask23.jpg
 categories: research
 author: "Yuxuan Mu"
 authors: "<a href=https://ericguo5513.github.io>Chuan Guo</a>*, <strong>Yuxuan Mu*</strong>, Muhammad Gohar Javed*, <a href=https://sites.google.com/site/senwang1312home/>Sen Wang</a>, <a href=https://www.ece.ualberta.ca/~lcheng5/>Li Cheng</a>"
-venue: "Accepted for CVPR"
+venue: "CVPR"
 website: "https://ericguo5513.github.io/momask/"
 # venue: "in: Submitted to CVPR"
 arxiv: "https://arxiv.org/abs/2312.00063"

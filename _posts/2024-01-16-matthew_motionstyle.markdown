@@ -7,7 +7,7 @@ categories: research
 author: "Yuxuan Mu"
 authors: "<a href=https://ericguo5513.github.io>Chuan Guo</a>*, <strong>Yuxuan Mu*</strong>, <a href=https://sites.google.com/site/xinxinzuohome/home>Xinxin Zuo</a>, Peng Dai, Youliang Yan, Juwei Lu, <a href=https://www.ece.ualberta.ca/~lcheng5/>Li Cheng</a>"
 # venue: "Arxiv Preprint"
-venue: "Accepted for ICLR"
+venue: "ICLR"
 website: "https://yxmu.foo/GenMoStyle/"
 arxiv: "https://arxiv.org/abs/2401.13505"
 code: "https://github.com/Murrol/GenMoStyle-code"
