@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction"
-date:   2024-01-20 22:21:59 +00:00
+date:   2024-07-01 22:21:59 +00:00
 image: /images/gsd24.jpg
 categories: research
 author: "Yuxuan Mu"
