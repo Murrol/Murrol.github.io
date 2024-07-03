@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MoMask: Generative Masked Modeling of 3D Human Motions <img alt='GitHub Repo stars' src='https://img.shields.io/github/stars/EricGuo5513/momask-codes'>"
+title:  "MoMask: Generative Masked Modeling of 3D Human Motions <a class='github-button' href='https://github.com/EricGuo5513/momask-codes' data-color-scheme='no-preference: light; light: light; dark: light;' data-show-count='true' aria-label='Star EricGuo5513/momask-codes on GitHub'>Star</a>"
 date:   2024-02-26 22:21:59 +00:00
 image: /images/momask23.jpg
 categories: research
