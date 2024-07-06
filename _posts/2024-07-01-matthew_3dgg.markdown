@@ -9,7 +9,8 @@ authors: "<strong>Yuxuan Mu</strong>, <a href=https://sites.google.com/site/xinx
 venue: "Accepted for ECCV"
 # venue: "Arxiv Preprint"
 # venue: "in: Submitted to CVPR"
-# arxiv: "https://arxiv.org/abs/2303.09681"
+arxiv: "https://arxiv.org/abs/"
 # code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
+website: "https://yxmu.foo/GSD/"
 ---
 3D Diffusion model upon the emerging Gausssian Splatting representation to tackle the single‐view real‐world object reconstruction, with fine-grained yet efficient conditioning, and generative modeling.
