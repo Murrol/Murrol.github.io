@@ -9,7 +9,7 @@ authors: "<strong>Yuxuan Mu</strong>, <a href=https://sites.google.com/site/xinx
 venue: "Accepted for ECCV"
 # venue: "Arxiv Preprint"
 # venue: "in: Submitted to CVPR"
-arxiv: "https://arxiv.org/abs/"
+arxiv: "https://arxiv.org/abs/2407.04237"
 # code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
 website: "https://yxmu.foo/GSD/"
 ---
