@@ -13,4 +13,4 @@ arxiv: "https://arxiv.org/abs/2407.04237"
 # code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
 website: "https://yxmu.foo/GSD/"
 ---
-The first 3D diffusion model directly upon Gausssian Splatting for real‐world object reconstruction, with fine-grained view-guided conditioning.
+The first 3D diffusion model directly upon Gaussian Splatting for real‐world object reconstruction, with fine-grained view-guided conditioning.
