@@ -6,7 +6,7 @@ image: /images/gsd24.jpg
 categories: research
 author: "Yuxuan Mu"
 authors: "<strong>Yuxuan Mu</strong>, <a href=https://sites.google.com/site/xinxinzuohome/home>Xinxin Zuo</a>, <a href=https://ericguo5513.github.io>Chuan Guo</a>, <a href=https://vision-and-learning-lab-ualberta.github.io/author/yilin-wang/>Yilin Wang</a>, Juwei Lu, Xiaofei Wu, Songcen Xu, Peng Dai, Youliang Yan, <a href=https://www.ece.ualberta.ca/~lcheng5/>Li Cheng</a>"
-venue: "Accepted for ECCV"
+venue: "ECCV"
 # venue: "Arxiv Preprint"
 # venue: "in: Submitted to CVPR"
 arxiv: "https://arxiv.org/abs/2407.04237"
