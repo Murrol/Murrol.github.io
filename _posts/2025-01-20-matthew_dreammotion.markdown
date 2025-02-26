@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MotionDreamer: One-to-More Motion Synthesis with Localized Generative Masked Transformer"
-date:   2025-01-020 22:21:59 +00:00
+date:   2025-01-20 22:21:59 +00:00
 image: /images/dreammotion25.gif
 categories: research
 author: "Yuxuan Mu"
