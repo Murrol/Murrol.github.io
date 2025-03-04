@@ -11,7 +11,7 @@ venue: "ICLR"
 # venue: "in: Submitted to CVPR"
 arxiv: "https://openreview.net/pdf?id=d23EVDRJ6g"
 # code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
-website: "https://motiondreamer.github.io/motiondreamer-page/"
+website: "https://motiondreamer.github.io"
 ---
 Localized masked modeling paradigm to learn motion
 internal patterns from one motion with arbitrary topology.
