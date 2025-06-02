@@ -6,7 +6,7 @@ image: /images/event23.jpg
 categories: research
 author: "Yuxuan Mu" 
 authors: "<a href=https://jimmyzou.github.io>Shihao Zou</a>, <strong>Yuxuan Mu</strong>, <a href=https://sites.google.com/site/xinxinzuohome/home>Xinxin Zuo</a>, <a href=https://sites.google.com/site/senwang1312home/>Sen Wang</a>, <a href=https://www.ece.ualberta.ca/~lcheng5/>Li Cheng</a>"
-venue: "Arxiv Preprint"
+venue: "IEEE TCSVT"
 # venue: "in: Submitted to CVPR"
 arxiv: "https://arxiv.org/abs/2303.09681"
 code: "https://github.com/JimmyZou/HumanPoseTracking_SNN"
