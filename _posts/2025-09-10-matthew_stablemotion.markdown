@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data"
-date:   2025-09-14 22:21:59 +00:00
+date:   2025-09-10 22:21:59 +00:00
 image: /images/stablemotion.gif
 categories: research
 author: "Yuxuan Mu"
