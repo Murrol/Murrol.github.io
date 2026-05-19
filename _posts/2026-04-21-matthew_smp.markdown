@@ -12,4 +12,4 @@ arxiv: "https://arxiv.org/abs/2512.03028"
 code: "https://github.com/xbpeng/MimicKit"
 video: "https://youtu.be/jBA2tWk6vzU"
 ---
-SMP trains reusable and modular reward models for training motion controllers. Once SMP has been trained on a motion dataset, the priors can be reused to train new controllers to perform diverse tasks while adhering to the behaviors in the dataset, without original dataset or retraining.
+SMP constructs reusable, modular reward models that evaluate motion naturalness and guide motor-controller training.
